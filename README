@@ -1,0 +1,39 @@
+                           README
+                         ==========  
+
+License
+-------
+
+Copyright (C) 2011  Anton Beloglazov
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of version 2 of the GNU General Public 
+License as published by the Free Software Foundation
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License at 
+
+       http://www.gnu.org/licenses/gpl-2.0.html
+
+for more details and to get a copy of the full license.
+
+
+Usage
+-----
+
+This is a simple extension for Gnome 3 that display a pop-up 
+with current date and time when you move the mouse to the
+bottom of the screen.
+
+Installation
+------------
+
+Copy the extension folder to:
+
+/home/anton/.local/share/gnome-shell/extensions/
+
+Then restart the Gnome shell, for example, by pressing
+ALT+F2, then type "r" and press enter.
+

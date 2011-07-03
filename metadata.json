@@ -1,0 +1,8 @@
+{
+   "shell-version": ["3.0"], 
+   "uuid": "bottom-hover-clock@beloglazov.info", 
+   "name": "Bottom Hover Clock", 
+   "description": "Move your mouse to the bottom of the screen to display current date and time",
+   "url": "http://fpmurphy.com/gnome-shell-extensions",
+   "original-authors": "Anton Beloglazov"
+}
