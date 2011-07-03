@@ -32,7 +32,7 @@ Installation
 
 Copy the extension files to:
 
-/home/anton/.local/share/gnome-shell/extensions/bottom-hover-clock@beloglazov.info/
+~/.local/share/gnome-shell/extensions/bottom-hover-clock@beloglazov.info/
 
 Then restart the Gnome shell, for example, by pressing
 ALT+F2, then type "r" and press enter.
